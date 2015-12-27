@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  ISouvenir
+
+  Created by m2sar on 29/11/2014.
+  Copyright (c) 2014 m2sar. All rights reserved.
+*/
+"clef-carte" = "carte";
+"clef-sat" = "satellite";
+"clef-hyp" = "Hypride";
+"clef-3D" = "3D";
+"clef-contact" = "Contact %d";
+"clef-error" = "Erreur";
+"clef-loaclisation-dés"  = "ctivez Service de localisation pour permettre à Isouvenir de vous localiser";
+"clef-ok" = "Oui";
+"clef-coord" = "Positionné sur %f , %f";
+"clef-mode0" = "Visualisation en Mode:3D";
+"clef-mode1" = "Visualisation en Mode:carte";
+"clef-mode2" = "Visualisation en Mode:satellite";
+"clef-mode3" = "Visualisation en Mode:Hypride";
+"clef-problem" = "Problème";
+"clef-movie" = "Vous avez enrigestrez un film";
+"clef-pingle" = "pingles %d";
+"clef-noContact" = "Pas Contact";
+
